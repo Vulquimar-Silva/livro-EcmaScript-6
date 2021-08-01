@@ -1,4 +1,4 @@
-## [Livro] - ECMAScript 6 - Entre de cabeça no futuro do JavaScript
+## [Livro]  ECMAScript 6 - Entre de cabeça no futuro do JavaScript
 
 <img src="https://www.entendendoes6.com.br/images/1.png" alt="livro-ecmascript6" />
 
