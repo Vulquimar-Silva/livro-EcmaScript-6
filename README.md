@@ -118,5 +118,5 @@ Nos últimos cinco anos, o JavaScript ganhou muita força com o "grande boom" do
 24. Recomendações <br />
 25. Referências <br />
 
-### Número de páginas:227
+### Número de páginas: 227
 [Comprar livro](https://www.casadocodigo.com.br/pages/sumario-ecmascript6) Página casa do código
